@@ -25,6 +25,14 @@ App must include
  * Messageboard (Reddit)
  * Pet finder app / Vet 
  * Instagram  
+ 
+ 
+ ### Bonus
+ 
+ Use an Api 
+  * Reddit
+  * DarkSky 
+  * etc
 	
 	
 ## Time Limit
